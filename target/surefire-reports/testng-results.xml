@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10498" started-at="2020-10-20T04:48:18Z" finished-at="2020-10-20T04:48:28Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10498" started-at="2020-10-20T04:48:18Z" finished-at="2020-10-20T04:48:28Z">
+      <class name="com.tusharTest.LoginTest">
+        <test-method status="PASS" signature="test01()[pri:1, instance:com.tusharTest.LoginTest@135b478]" name="test01" duration-ms="9653" started-at="2020-10-20T04:48:18Z" finished-at="2020-10-20T04:48:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method status="PASS" signature="homeTest()[pri:2, instance:com.tusharTest.LoginTest@135b478]" name="homeTest" duration-ms="307" started-at="2020-10-20T04:48:28Z" finished-at="2020-10-20T04:48:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeTest -->
+        <test-method status="PASS" signature="adduserTest()[pri:3, instance:com.tusharTest.LoginTest@135b478]" name="adduserTest" duration-ms="312" started-at="2020-10-20T04:48:28Z" finished-at="2020-10-20T04:48:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adduserTest -->
+        <test-method status="PASS" signature="verifyUsernameLable()[pri:4, instance:com.tusharTest.LoginTest@135b478]" name="verifyUsernameLable" duration-ms="51" started-at="2020-10-20T04:48:28Z" finished-at="2020-10-20T04:48:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUsernameLable -->
+        <test-method status="PASS" signature="verifyMobile()[pri:5, instance:com.tusharTest.LoginTest@135b478]" name="verifyMobile" duration-ms="48" started-at="2020-10-20T04:48:28Z" finished-at="2020-10-20T04:48:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMobile -->
+        <test-method status="PASS" signature="verifyEmail()[pri:6, instance:com.tusharTest.LoginTest@135b478]" name="verifyEmail" duration-ms="47" started-at="2020-10-20T04:48:28Z" finished-at="2020-10-20T04:48:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmail -->
+        <test-method status="PASS" signature="verifyCourse()[pri:7, instance:com.tusharTest.LoginTest@135b478]" name="verifyCourse" duration-ms="45" started-at="2020-10-20T04:48:28Z" finished-at="2020-10-20T04:48:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCourse -->
+      </class> <!-- com.tusharTest.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
